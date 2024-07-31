@@ -1,2 +1,5 @@
 # ViewSonic-IoT-Control
-This Project aims to remotely control Viewsonic projector (RS232) via HTTP
+This Project aims to remotely control ViewSonic projector (RS232) via HTTP
+
+# Blueprint
+ViewSonic Project RS232 Interface - RS232 to TTL Convertor - ESP8266 - HTTP
